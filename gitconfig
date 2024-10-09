@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = 127429535+keithhoan@users.noreply.github.com
-	name = Keith Hoan 127429535+keithhoan@users.noreply.github.com
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = Keith Hoan
